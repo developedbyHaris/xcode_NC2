@@ -15,6 +15,7 @@
 		FC93E48E2622B6C000285FF7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FC93E48C2622B6C000285FF7 /* LaunchScreen.storyboard */; };
 		FC93E49F2623621E00285FF7 /* ProgressBar.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC93E49D2623621E00285FF7 /* ProgressBar.swift */; };
 		FC93E4A02623621E00285FF7 /* Timer.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC93E49E2623621E00285FF7 /* Timer.swift */; };
+		FCF09C3A28127D9C00C45C4A /* TestBranch.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF09C3928127D9C00C45C4A /* TestBranch.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		FC93E48F2622B6C000285FF7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		FC93E49D2623621E00285FF7 /* ProgressBar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ProgressBar.swift; path = "../../../Downloads/customprogressbar-master/CustomProgressBar/ProgressBar.swift"; sourceTree = "<group>"; };
 		FC93E49E2623621E00285FF7 /* Timer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Timer.swift; path = "../../../Downloads/customprogressbar-master/CustomProgressBar/Timer.swift"; sourceTree = "<group>"; };
+		FCF09C3928127D9C00C45C4A /* TestBranch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TestBranch.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				FC93E49E2623621E00285FF7 /* Timer.swift */,
 				FC93E48C2622B6C000285FF7 /* LaunchScreen.storyboard */,
 				FC93E48F2622B6C000285FF7 /* Info.plist */,
+				FCF09C3928127D9C00C45C4A /* TestBranch.swift */,
 			);
 			path = xcode_NC2;
 			sourceTree = "<group>";
@@ -148,6 +151,7 @@
 				FC93E49F2623621E00285FF7 /* ProgressBar.swift in Sources */,
 				FC93E4A02623621E00285FF7 /* Timer.swift in Sources */,
 				FC93E4842622B6BF00285FF7 /* SceneDelegate.swift in Sources */,
+				FCF09C3A28127D9C00C45C4A /* TestBranch.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
